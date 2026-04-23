@@ -113,11 +113,6 @@ This system **balances both** → better accuracy + robustness.
 
 ## 🔍 How It Works (Pipeline)
 
-```text
-User Activity → Feature Extraction → Similarity Computation
-             → Hybrid Model → Ranked Recommendations → UI Display
-```
-
 ### Step-by-step:
 
 1. Collect user interaction data
